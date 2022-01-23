@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63d212fc.css",
+    "main.js": "/static/js/main.98599d7d.js",
+    "static/js/787.9b1a8229.chunk.js": "/static/js/787.9b1a8229.chunk.js",
+    "static/media/SegoeUI.ttf": "/static/media/SegoeUI.45472284dc36b2486ce2.ttf",
+    "index.html": "/index.html",
+    "main.63d212fc.css.map": "/static/css/main.63d212fc.css.map",
+    "main.98599d7d.js.map": "/static/js/main.98599d7d.js.map",
+    "787.9b1a8229.chunk.js.map": "/static/js/787.9b1a8229.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63d212fc.css",
+    "static/js/main.98599d7d.js"
+  ]
+}
