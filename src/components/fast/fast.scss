@@ -1,0 +1,99 @@
+.srollList{
+    overflow: hidden;
+    display: -webkit-box;
+    gap: 12px;
+    overflow: scroll;
+    align-items: center;
+    padding-left: 10px;
+}
+.button-white{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px 10px;
+
+    position: absolute;
+
+    left: 8px;
+    top: 90px;
+
+    /* #FFFFFF */
+
+    background: #FFFFFF;
+    border-radius: 35px;
+}
+
+.button-red{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px 10px;
+
+    position: absolute;
+    width: 75px;
+    height: 31px;
+    left: 0px;
+    top: 10px;
+    font-size: 18px;
+
+    /* #D73624 */
+
+    background: #D73624;
+    color: #ffffff;
+    border-radius: 0px 4px 4px 0px;
+
+}
+
+
+.icon-heart {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    
+    /* #FFFFFF */
+    
+    background: #FFFFFF;
+    border-radius: 8px;
+}
+
+.icon-red {
+    position: absolute;
+    width: 24px;
+    height: 20px;
+    left: 180px;
+    top: 8px;
+    right: 8px;
+    background: #ffffff;
+    border-radius: 8px;
+    padding: 2px;
+    .icw{
+        width: 20px;
+        padding-left: 2px;
+    }
+}
+
+.changed{
+    width: 226px;    
+    height: 150px;
+    border-radius: 12px;
+    position: relative;
+}
+
+.icw-bic{
+    width: 20px;    
+    font-size: 16px;
+}
+.icw-star{
+    width: 20px;
+    padding-left: 10px;
+}
+.grey{
+    color: #747474;
+}
+.title{     
+    font-size: 16px;
+    line-height: 21px;
+}
+.btom{
+    padding-bottom: 60px;
+}

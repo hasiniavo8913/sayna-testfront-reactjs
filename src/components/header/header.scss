@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    //position: fixed; 
+    top: 0;
+    right: 0;
+    left: 0; 
+    z-index: 1000;
+    padding-top: 15px;
+}
+.offers{
+    padding-left: 120px;
+}
+.adress{
+    font-size: 12px;
+    padding-left: 22px;
+}

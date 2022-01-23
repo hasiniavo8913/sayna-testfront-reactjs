@@ -1,0 +1,24 @@
+.menu-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #fbfbfb;
+    position: fixed; 
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+.style{
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}
+.pd1{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.lnkno{
+    text-decoration: none;
+}

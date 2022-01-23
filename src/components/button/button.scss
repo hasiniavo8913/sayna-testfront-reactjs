@@ -1,0 +1,25 @@
+.btnw {
+    display: -webkit-box;
+    flex-direction: row;   
+    overflow: scroll;    
+    overflow-y: hidden; 
+    .btng {
+      overflow: hidden;
+      display: -webkit-box;
+      gap: 12px;
+      padding: 10px;
+      .btn {
+        padding: 10px;
+        border-radius: 8px;
+        background-color: #E8E8E8;
+        font-size: 16px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        p {
+          white-space: nowrap;
+        }
+      }
+    }
+  }
+  
